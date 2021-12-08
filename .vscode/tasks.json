@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "shell",
+      "command": "yarn start",
+      "problemMatcher": [],
+      "label": "yarn start"
+    }
+  ]
+}
